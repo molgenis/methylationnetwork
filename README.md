@@ -5,7 +5,7 @@ This repository contain notebooks for the Manuscript: Integration of public DNA 
 Python 3.6.5 or above <br />
 Python Packages listed in `Requirements.txt`
 
-## Notebooks
+## Notebook Description
 #### eQTM_prediction_models.ipynb
 This notebook contain python scripts for using the two models predicting 1) whether there is a eQTM effect between a CpG site and a nearby gene and 2) whether this eQTM association is a positive association or a negative one. 
 #### tissue_disease_prediction_model.ipynb
